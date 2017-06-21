@@ -1,0 +1,10 @@
+{
+    "/":{
+        "file":"index.html",
+        "title":"Home"
+    },
+    "404":{
+        "file":"404.html",
+        "title":"404"
+    }
+}
